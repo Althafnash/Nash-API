@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Q2tEbDuUNMusDY4pRQYLw2E/OuH6phOr5H+PcgAnGmU=",
+  "Hash": "6Do9YSBYicEmW7LSjoGFsZsHhPL9G+yh8FmLZ9ON50s=",
   "Source": "NashAPI",
   "BasePath": "_content/NashAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

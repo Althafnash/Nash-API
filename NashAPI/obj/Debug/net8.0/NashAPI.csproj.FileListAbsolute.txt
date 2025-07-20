@@ -1,25 +1,29 @@
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\appsettings.Development.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\appsettings.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\NashAPI.exe
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\NashAPI.deps.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\NashAPI.runtimeconfig.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\NashAPI.dll
-D:\Nash Workspace\Projects\Nash API\NashAPI\bin\Debug\net8.0\NashAPI.pdb
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.AssemblyInfoInputs.cache
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.AssemblyInfo.cs
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.csproj.CoreCompileInputs.cache
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets.build.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets.development.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.NashAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NashAPI.props
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NashAPI.props
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NashAPI.props
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\scopedcss\bundle\NashAPI.styles.css
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.dll
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\refint\NashAPI.dll
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.pdb
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\NashAPI.genruntimeconfig.cache
-D:\Nash Workspace\Projects\Nash API\NashAPI\obj\Debug\net8.0\ref\NashAPI.dll
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\appsettings.json
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.staticwebassets.endpoints.json
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.exe
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.deps.json
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.runtimeconfig.json
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.dll
+D:\GithubRepos\Nash-API\NashAPI\bin\Debug\net8.0\NashAPI.pdb
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.AssemblyInfoInputs.cache
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.AssemblyInfo.cs
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.csproj.CoreCompileInputs.cache
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.sourcelink.json
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\scopedcss\bundle\NashAPI.styles.css
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.NashAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.NashAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NashAPI.props
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NashAPI.props
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NashAPI.props
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.dll
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\refint\NashAPI.dll
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.pdb
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\NashAPI.genruntimeconfig.cache
+D:\GithubRepos\Nash-API\NashAPI\obj\Debug\net8.0\ref\NashAPI.dll
